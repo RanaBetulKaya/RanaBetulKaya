@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-- 🌱 I’m currently learning **ReactJs and MongoDB**
-
-- 📝 I regularly write articles on [https://medium.com/@RanaBetulKaya](https://medium.com/@RanaBetulKaya)
-
 - 📫 How to reach me **ranabetullkaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
